@@ -26,10 +26,29 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+<html>
+<head>
+</head>
+<body>
+<p style="font-size:30px"><b>Agricultural Search</b></p>
+<a href="https://milnepublishing.geneseo.edu/botany/chapter/rice/">
+<img style="border:5px solid black;"src="/home/sec/Pictures/rice.jpeg"width=300" height="400"><br>
+<br>
+<a href="https://en.wikipedia.org/wiki/Wheat">
+<img style="border:5px solid black;"src="/home/sec/Pictures/wheat.jpeg"width=300" height="400"><br>
+<br>
+<a href=https://www.zzhuayo.com/product/mini-plough/">
+<img style="border:5px solid black;"src="/home/sec/Pictures/simple-plough.jpg"width=300" height="400"><br>
+<br>
+<a href=https://en.wikipedia.org/wiki/Fertilizer'>
+<img style="border:5px solid black;"src="/home/sec/Pictures/fertilizer.jpeg"width=300" height="400"><br>
+</a>
+</body>
+</html>
 
 ## OUTPUT
 
+![darshny](https://github.com/DarshnyS/Ex04_Web-Design/assets/127816313/932d426f-a7ad-4915-91c8-f12cb140badf)
 
 ## RESULT
  Images as hyperlinks is implemented successfully.
